@@ -1,6 +1,8 @@
-# DirectXproject
-Let's make game tool
+# Understand CPU memories and GPU memories
 
-# Purpose
-To understand the Graphic proccessing unit
-It gose on Double Buffering 
+# purpose
+learning to memory structure GPU by Directx  
+
+ 
+# next featrues
+understand double buffering
